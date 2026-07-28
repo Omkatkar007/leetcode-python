@@ -7,6 +7,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Omkatkar007/leetcode-sql-and-python/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Omkatkar007/leetcode-python/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
