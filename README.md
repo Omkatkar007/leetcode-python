@@ -23,4 +23,8 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Omkatkar007/leetcode-python/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Omkatkar007/leetcode-python/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
