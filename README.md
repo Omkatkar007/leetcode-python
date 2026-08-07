@@ -28,4 +28,16 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Omkatkar007/leetcode-python/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/Omkatkar007/leetcode-python/tree/master/1075-project-employees-i) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
