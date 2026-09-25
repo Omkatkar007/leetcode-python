@@ -17,7 +17,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | [0412-fizz-buzz](https://github.com/Omkatkar007/leetcode-sql-and-python/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
-| ------- |
+| ----- |
 | [0412-fizz-buzz](https://github.com/Omkatkar007/leetcode-sql-and-python/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
