@@ -38,6 +38,6 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
-| ------- |
+| ------ |
 | [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
