@@ -17,7 +17,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | [0412-fizz-buzz](https://github.com/Omkatkar007/leetcode-sql-and-python/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
-| ----- |
+| ------- |
 | [0412-fizz-buzz](https://github.com/Omkatkar007/leetcode-sql-and-python/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
@@ -28,6 +28,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Omkatkar007/leetcode-python/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/Omkatkar007/leetcode-python/tree/master/1075-project-employees-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Omkatkar007/leetcode-python/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,6 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 | [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
-| ------ |
+| ------- |
 | [0217-contains-duplicate](https://github.com/Omkatkar007/leetcode-python/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
